@@ -7,11 +7,11 @@ Set of real world data science tasks completed using the Python Pandas library.
 Installing Jupyter Notebook: https://jupyter.readthedocs.io/en/latest/install.html 
 
 Installing Python Packages:
-!pip install nltk
-!pip install requests
-!pip install beautifulsoup4
-!pip install wikipedia
-!pip install num2words
+!pip install nltk <br>
+!pip install requests <br>
+!pip install beautifulsoup4 <br>
+!pip install wikipedia <br>
+!pip install num2words <br>
 
 # WorkFlow
 
